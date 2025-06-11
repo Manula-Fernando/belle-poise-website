@@ -31,7 +31,7 @@ For the website to function correctly, the files should be organized in the foll
 |   |--- font-awesome.min.css
 |
 |--- images/
-|   |--- (all your product and site images)
+|   |--- (all the product and site images)
 |
 |--- js/
 |   |--- jquery-3.4.1.min.js
